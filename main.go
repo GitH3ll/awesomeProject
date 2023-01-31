@@ -21,6 +21,6 @@ func countRunes(s string) map[rune]int {
 		}
 		m[r] = 1
 	}
+	fmt.Println(m)
 	return m
-	WEFPIJWEPIOFJWIOFJWIJPORFGIJPORG
 }
